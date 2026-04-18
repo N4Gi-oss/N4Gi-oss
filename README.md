@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mohamed Wael</h1>
 
 <p align="center">
-  🎓 Computer Science Student | 💻 Passionate Developer | 🚀 Always Learning
+  🎓 Computer Science Student | 💻 Developer | 🚀 Always Learning
 </p>
 
 <p align="center">
