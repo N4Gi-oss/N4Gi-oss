@@ -48,7 +48,6 @@
 ## 🎯 Current Goals
 
 - 💻 Strengthen programming fundamentals  
-- 🧠 Improve problem solving skills  
 - 🚀 Build more real-world projects  
 - 🌐 Start learning backend development  
 
@@ -57,7 +56,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.facebook.com/mo.wael.9678/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
