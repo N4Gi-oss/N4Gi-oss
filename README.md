@@ -1,48 +1,59 @@
-<h1 align="center">📚 Online Library System</h1>
+<h1 align="center">Hey 👋, I'm Mohamed Wael</h1>
 
 <p align="center">
-  A modern web-based library system to manage, browse, and borrow books easily.
+  💻 Frontend Developer | 🎯 Problem Solver | 🚀 Always Learning
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge">
-</p>
-
----
-
-## ✨ Features
-
-- 📖 Add new books
-- 🖼 Upload book cover
-- 📦 Stored in LocalStorage
-- 🔍 View & browse books
-- 🔄 Dynamic homepage (Featured Books)
-- 📱 Responsive design
-
----
-
-## 🎥 Preview
-
-<p align="center">
-  <img src="assets/images/preview.png" width="600">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;JavaScript+Lover;Building+Cool+Projects;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🧠 How It Works
+## 🚀 About Me
 
-- Books are stored using **LocalStorage**
-- Data is handled through:
-  - `addBook()`
-  - `getBooks()`
-  - `deleteBook()`
-- Homepage dynamically loads featured books
+- 🎓 Computer Science Student  
+- 💡 Passionate about building web applications  
+- 🔥 Currently working on: **Online Library System**  
+- 🧠 Learning: JavaScript, UI/UX, and System Design  
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Tech Stack
 
-```bash
-git clone https://github.com/your-username/library-system.git
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 🔥 Improve problem solving skills  
+- 🚀 Build real-world projects  
+- 🌐 Learn backend (Node.js)  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Code. Learn. Build. Repeat." ⚡
+</p>
